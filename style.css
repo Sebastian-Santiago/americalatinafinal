@@ -1,0 +1,29 @@
+*{
+    padding:0px;
+    margin:0px;}
+    p {
+        line-height:2;
+            text-indent: 50px;
+            margin-left:20px;
+            margin-right:20px;
+            text-align: justify;
+            font-size:26px;
+        }
+
+h1{color:blue;
+ font-family: 'Road Rage', cursive;}
+nav a,ul, li{
+    text-decoration: none; 
+    list-style-type:none;
+    display: flex ;
+    flex-direction: row ;
+    flex-wrap: wrap ;
+    justify-content: space-around ;
+    align-items: center ;
+    align-content: center ;
+    text-decoration: none;
+    color: white
+}
+nav {
+    background-color:cornflowerblue;
+}
